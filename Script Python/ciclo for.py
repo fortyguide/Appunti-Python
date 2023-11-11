@@ -7,4 +7,4 @@
 shopping_list = ["tofu", "latte di soia", "riso basmati", "yogurt greco"]
 
 for index, element in enumerate(shopping_list):
-    print("%d) %s" % (index+1, element))  
+    print("%d) %s" % (index+1, element))   

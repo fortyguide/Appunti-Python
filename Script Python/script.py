@@ -1,2 +1,3 @@
-hello = "ciao python"
-print(hello)
+def hello_world():
+    hello = "Hello world!"
+    print(hello)
